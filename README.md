@@ -5,7 +5,7 @@ Your configurable, speedy shield for user messages! It keeps conversations safe 
 
 # LLM Moderation Guardrail for Voiceflow
 
-<img src="/Users/acrobat/Documents/GitHub/GuardGroq/images/GuardGroq (1861 x 625 px).png" alt="GuardGroq: LLaMA Guard-Powered Content Shield Logo" width="930" height="310"/>
+<img src="images/GuardGroq (1861 x 625 px).png" alt="GuardGroq: LLaMA Guard-Powered Content Shield Logo" width="930" height="310"/>
 
 
 ## How It Works
