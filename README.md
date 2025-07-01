@@ -21,10 +21,10 @@ GuardGroq moderates content using LLaMA Guard 3 and Groq's LPU technology, follo
 ## Features
 
 - Easy integration with Voiceflow's knowledge base response template
-- Utilizes latest LLaMA Guard 3 8B model
+- Utilizes the latest LLaMA Guard 3 8B model  (Update: meta-llama/llama-guard-4-12b)
 - Leverages Groq's high-speed LPU technology for near-instantaneous input moderation
 - Built-in content-based heuristics system for enhanced moderation
-- Customizable topic-related responses responses for MLCommons standardized hazards taxonomy
+- Customizable topic-related responses for MLCommons standardized hazards taxonomy
 - Configurable for various domains and use cases
 
 
