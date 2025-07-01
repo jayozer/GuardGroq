@@ -127,7 +127,7 @@ export default async function main(args) {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        model: "llama-guard-3-8b",
+        model: "meta-llama/llama-guard-4-12b",
         messages: [
           {
             role: "user",
